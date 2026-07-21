@@ -167,7 +167,7 @@ http://localhost:5173
 
 ### Login Page
 
-loginpage-reference
+![image alt](https://github.com/nityakat713-ksy/mern-google-p-oauth/blob/94487fdc6202d15a362fc3e99591cd545e0887e1/Screenshot%202026-07-22%20011221.png
 
 ### Dashboard
 
