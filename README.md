@@ -171,7 +171,7 @@ http://localhost:5173
 
 ### Dashboard
 
-dashboard-reference
+![image alt](https://github.com/nityakat713-ksy/mern-google-p-oauth/blob/ab4e4647236eb28d0ff17fff8f42348bd5608822/Screenshot%202026-07-22%20011953.png)
 
 ---
 
